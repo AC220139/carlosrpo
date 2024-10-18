@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "happyPedidos",
+    "slug": "happyPedidos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./imagenes/Logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./imagenes/Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./imagenes/Logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./imagenes/Logo.png"
+    }
+  }
+}
